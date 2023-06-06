@@ -1,0 +1,15 @@
+/* Write your code here. */
+.navbar-container {
+  display: flex;
+  background-color: #ffffff33;
+  padding: 15px;
+}
+.title {
+  color: #ffffff;
+  font-size: 24px;
+}
+.logo-img {
+  padding-left: 60px;
+  padding-right: 10px;
+  width: 130px;
+}
